@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Jorge Ortiz Leon</h1>
-<h3 align="center">Soy un entusiasta del desarrollo web</h3>
+<h3 align="center">Un entusiasta del desarrollo web</h3>
 <br>
 <br>
 <p align="center">
