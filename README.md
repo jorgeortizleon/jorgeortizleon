@@ -11,14 +11,24 @@
   <!-- <b><i>Aprendiendo mientras sueño y mr esfuerzo</i></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" /> -->
 </p>
 
-### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> &nbsp;About me
+
+ 
+Conocimientos técnicos 
+Responsable 
+Autodidacta 
+### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> &nbsp;Habilidades
 <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 250px></picture>
 <br>
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Creatividad 
+- Trabajo en equipo 
+- Comunicación
+- Conocimientos técnicos 
+- Responsable 
+- Autodidacta
+<!--
 - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+-->
 
 <br>
 <br>
