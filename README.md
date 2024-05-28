@@ -75,7 +75,11 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<br>
+<br>
+
+<h3 align="center">Connect with Me jorgeortiz37bbb@gmail.com</h3>
+
 
 
 
