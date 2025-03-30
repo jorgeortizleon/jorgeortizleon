@@ -1,39 +1,23 @@
-<h1 align="center">Hola 👋, Soy Jorge Ortiz Leon</h1>
-<h3 align="center">Un entusiasta del desarrollo web</h3>
+<h1 align="center">Hello 👋, I'm Jorge Ortiz Leon</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
-<br>
-<br>
-
-<p align="center">
-  <em>
-    Soy un <b>egresado y titulado</b> de la carrera de ingeniería en sistemas computacionales del <a href="https://piedad.tecnm.mx/"> <b> Instituto Tecnológico de la piedad.</a>. <br>
-    Un desarrollador de software Full-Stack en crecimiento y apasionado por la programación , comprometido con la mejora constante y en busca de una oportunidad para desarrollarse y destacar.
-  </em> 
-  <br><br><br>
-  <!-- <b><i>Aprendiendo mientras sueño y mr esfuerzo</i></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" /> -->
-</p>
-
-### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> &nbsp;Habilidades
 <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 250px></picture>
 <br>
-- Creatividad 
-- Trabajo en equipo 
-- Comunicación
-- Conocimientos técnicos 
-- Responsable 
-- Autodidacta
-<!--
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
--->
-
+<p align="center">
+  <em>
+    I am a graduate with a degree in Computer Systems Engineering from the <a href="https://piedad.tecnm.mx/"> <b> Instituto Tecnológico de la piedad.</a>
+    I am a Full Stack developer with approximately one year of experience. I have worked on the development of e-commerce platforms, ERP systems, and personal projects.
+    I specialize in frontend development with Vue and Angular, backend development with Spring Boot and Laravel, and databases with MySQL, Supabase, and Firebase, along with other third-party tools as needed.
+    I love innovating, automating, and developing scalable and efficient software.
+  </em> 
+  <br><br><br>
+</p>
 <br>
 <br>
 
+<h3 align="center">Ver mas 👇👇 </h3>
 
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  -->
-
-### 🛠 &nbsp;Lenguajes 
+### 🛠 &nbsp;Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -49,7 +33,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
 
-### 🧰 &nbsp;Otros
+### 🧰 &nbsp;Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -62,6 +46,10 @@
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;  
+![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)&nbsp;  
+![n8n](https://img.shields.io/badge/n8n-FF5910?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;  
 
 <br>
 <br>
@@ -78,7 +66,10 @@
 <br>
 <br>
 
-<h3 align="center">Connect with Me jorgeortiz37bbb@gmail.com</h3>
+<h3 align="center">Connect with me jorgeortiz37bbb@gmail.com</h3>
+
+
+
 
 
 
