@@ -11,9 +11,8 @@
 </p>
 <picture> <img align="left" src="./bottom.png" width="100%" height="200px"> </picture>
 
-<br><br>
-
-<em>  </em>
+<br>
+<br>
 
 ### 🛠 &nbsp;Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
