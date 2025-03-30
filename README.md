@@ -1,8 +1,6 @@
-<h1 align="center">Hello 👋, I'm Jorge Ortiz Leon</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<picture> <img align="left" src="./top.png" width="100%" height="200px"> </picture>
 
 <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 250px></picture>
-<br>
 <p align="center">
   <em>
     I am a graduate with a degree in Computer Systems Engineering from the <a href="https://piedad.tecnm.mx/"> <b> Instituto Tecnológico de la piedad.</a>
@@ -10,12 +8,12 @@
     I specialize in frontend development with Vue and Angular, backend development with Spring Boot and Laravel, and databases with MySQL, Supabase, and Firebase, along with other third-party tools as needed.
     I love innovating, automating, and developing scalable and efficient software.
   </em> 
-  <br><br><br>
 </p>
-<br>
-<br>
+<picture> <img align="left" src="./bottom.png" width="100%" height="200px"> </picture>
 
-<h3 align="center">Ver mas 👇👇 </h3>
+<br><br>
+
+<em>  </em>
 
 ### 🛠 &nbsp;Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
